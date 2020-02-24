@@ -1,7 +1,7 @@
 # Adaptive Propagation Graph Convolutional Network (AP-GCN)
 
 This is the companion code for the paper:
-[Adaptive Propagation Graph Convolutional Network](https://arxiv.org/abs/1905.01907), *arXiv:1905.01907*, 2020.
+Spinelli I, Scardapane S, Uncini A, [Adaptive Propagation Graph Convolutional Network](https://arxiv.org/abs/1905.01907), *arXiv:1905.01907*, 2020.
 
 ### The Spectral K
 

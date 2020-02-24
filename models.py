@@ -1,4 +1,4 @@
-__author__ = "Indro Spinelli"
+__author__ = "Indro Spinelli and Simone Scardapane"
 __license__ = "MIT"
 
 import math
